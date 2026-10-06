@@ -1,0 +1,28 @@
+📁 DG Interns Hub
+│
+├── 📁WEEK 1 
+│   │
+│   ├── 📁 01_notes
+│   │   ├── 01_What_is_a_SOC.docx
+│   │   ├── 02_SOC_Analyst_Levels.docx
+│   │   ├── 03_CIA_Triad.docx
+│   │   ├── 04_TCPIP_vs_OSI.docx
+│   │   ├── 05_Phishing_and_Fake_Phishing_Email.docx
+│   │   └── 06_Malware_Case_Study.docx
+│   │
+│   ├── 📁 02_WRITEUPS
+│   │   ├── 01_TryHackMe_What_is_Networking.docx
+│   │   ├── 02_TryHackMe_Introductory_Networking.docx
+│   │   ├── 03_TryHackMe_Windows_Fundamentals_1.docx
+│   │   ├── 04_TryHackMe_Cyber_Kill_Chain.docx
+│   │   ├── 05_TryHackMe_Security_Blue_Team.docx
+│   │   └── 06_LET'S DEFEND_SOC_Fundamentals.docx
+│   │   
+│   ├── 📁 03_FINDING FOLDER
+│   │     └── SOC_Hands_On_Task_Windows_Event_Logs.docx
+│   │   
+│   ├── 📁 04_ Presentation Report
+│   │   
+│   └── 📁 05_REPORT_WEEK1.PDF
+│   ├── 📁 06_structure_week1/txt
+─
